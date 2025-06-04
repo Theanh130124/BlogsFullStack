@@ -1,6 +1,11 @@
 # BlogsFullStack
 
 
+// 
+
+npm install 
+
+
 //Create dict
 mkdir blog_turborepo  -> cd blog_turborepo
 //Create packagejson 
